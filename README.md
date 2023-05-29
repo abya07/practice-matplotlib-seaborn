@@ -22,4 +22,3 @@ increase the separation between BTC and the rest of the portfolio.
 
 6. Using Matplotlib, plot the histogram for ETH returns using 30 bins with red color.
 
-7. Using Seaborn, plot a heatmap that shows the correlations between crypto daily returns.
